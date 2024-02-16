@@ -17,9 +17,9 @@ Welcome to our Radar Signal Processing FPGA Design project! This academic endeav
 
 ## Materials 🧱
 
-- **Artix-7 FPGA** (DigiKey - [XC7A12T-1CPG238C](https://www.digikey.com/en/products/detail/amd/XC7A12T-1CPG238C/8628412)
-- **Volatile Memory - SRAM** (DigiKey - [IS61LP6432A-133TQLI](https://www.digikey.com/en/products/detail/issi-integrated-silicon-solution-inc/IS61LP6432A-133TQLI/1557176)
-- **Non-Volatile Memory - FLASH** (DigiKey - [S29CD016J0MQFM030](https://www.digikey.com/en/products/detail/infineon-technologies/S29CD016J0MQFM030/5787716)
+- **Artix-7 FPGA** (DigiKey - [XC7A12T-1CPG238C](https://www.digikey.com/en/products/detail/amd/XC7A12T-1CPG238C/8628412))
+- **Volatile Memory - SRAM** (DigiKey - [IS61LP6432A-133TQLI](https://www.digikey.com/en/products/detail/issi-integrated-silicon-solution-inc/IS61LP6432A-133TQLI/1557176))
+- **Non-Volatile Memory - FLASH** (DigiKey - [S29CD016J0MQFM030](https://www.digikey.com/en/products/detail/infineon-technologies/S29CD016J0MQFM030/5787716))
 
 ## Contributors 👩‍💻👨‍💻
 
